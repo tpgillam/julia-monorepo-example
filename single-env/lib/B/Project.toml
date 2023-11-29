@@ -1,0 +1,8 @@
+name = "B"
+uuid = "47f98ec6-b7bb-4f36-82fd-f6534ad049b5"
+authors = ["Tom Gillam <tpgillam@googlemail.com>"]
+version = "0.1.0"
+
+[deps]
+A = "365e1c48-525f-4bee-8e9f-823e1491a965"
+C = "6741b49d-be04-477b-a5d3-3174477b417c"

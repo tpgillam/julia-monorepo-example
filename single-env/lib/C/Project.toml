@@ -1,0 +1,7 @@
+name = "C"
+uuid = "6741b49d-be04-477b-a5d3-3174477b417c"
+authors = ["Tom Gillam <tpgillam@googlemail.com>"]
+version = "0.1.0"
+
+[deps]
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
