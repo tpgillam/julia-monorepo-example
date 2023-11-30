@@ -2,6 +2,8 @@ module B
 
 export meow
 
+using LinearAlgebra
+
 using A
 using C
 
